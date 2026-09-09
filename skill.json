@@ -1,0 +1,17 @@
+{
+  "name": "genpark-michael-scott-lock-free-queue-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Michael-Scott Lock-Free Concurrent FIFO Queue with Two-Pointer Linearization",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "concurrency",
+    "lock-free",
+    "michael-scott-queue",
+    "fifo-queue"
+  ]
+}
